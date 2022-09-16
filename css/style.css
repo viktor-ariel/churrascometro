@@ -1,0 +1,62 @@
+.container{
+	font-family: sans-serif, fantasy, cursive;
+	max-width: 300px ;
+	margin: auto;
+	background-color: blueviolet;
+	padding: 50px;
+	border-radius: 20px;
+	border-style: solid;
+	border-color: red;
+	
+}
+
+h1{
+	margin-top: 0px;
+
+}
+
+input{
+	width: 100%;
+	display: block;
+	padding: 5px;
+	box-sizing: border-box;
+	margin-bottom: 10px;
+}
+
+
+#calcular{
+	width: 50%;
+	margin: 25%;
+	box-sizing: border-box;
+	padding: 10px;
+	border: skyblue;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	color: black;
+	background-color: yellow;
+	font-weight: bold ;
+	border-radius: 50px;
+
+
+
+
+
+
+	
+
+}
+
+#calcular:hover{
+	background-color: red;
+	
+} 
+
+
+
+
+
+
+body{
+	background-color: yellow;
+}
+
